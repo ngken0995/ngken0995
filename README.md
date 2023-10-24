@@ -5,10 +5,6 @@ Welcome to my GitHub!
 Some things about me:
  - My IDE setup: Sublime Text + Terminal / VSCode
  - Goto language: Python3
- 
-Stuff I hate:
- - Languages that mandate semicolons :tired_face: (are newlines not good enough for your compiler?)
- - Messy websites
 
 Activity I love:
  - Yoga
